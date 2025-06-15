@@ -52,7 +52,7 @@ Ensure you have the correct Python version installed (Python 3.10.0 is required)
    python3.10 --version
    ```
 
-2. If Python 3.10.0 is installed, proceed to **Step 3**.
+2. If Python 3.10.0 is installed, proceed to **Step 2**.
 
 3. If your Python version is higher (e.g., 3.11 or 3.12) or lower, you need to install Python 3.10.0:
    - Download the Python 3.10.0 Windows installer from the [official Python website](https://www.python.org/downloads/release/python-3100/).
