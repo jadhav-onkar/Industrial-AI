@@ -25,14 +25,9 @@ This project demonstrates how **Artificial Intelligence and Machine Learning** c
 To get started, you can either clone the repository using Git or download it as a ZIP file:
 
 - **Using Git**:
-  1. Clone the repository:
      ```bash
      git clone https://github.com/jadhav-onkar/Industrial-AI
      ```
-  2. Open the project in Visual Studio Code:
-     - Launch Visual Studio Code.
-     - Go to `File > Open Folder` and select the `Industrial-AI` folder, or drag and drop the folder into VS Code.
-  3. Open a terminal in VS Code (`Terminal > New Terminal`) and navigate to the project directory:
      ```bash
      cd Industrial-AI
      ```
