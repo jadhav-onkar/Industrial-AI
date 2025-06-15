@@ -95,6 +95,7 @@ Ensure you have the correct Python version installed (Python 3.10.0 is required)
    ```bash
    pip install -r requirements.txt
    ```
+> Note: It may take a few minutes to install all the required packages during setup.
 
 2. Install the MediaPipe library:
    ```bash
@@ -107,7 +108,7 @@ Ensure you have the correct Python version installed (Python 3.10.0 is required)
    python app.py
    ```
 
-2. The application will launch a web interface. Sign up and log in to access the dashboard.
+2. The application will running on http://localhost:5000 . Sign up and log in to access the dashboard.
 
 ### Step 5: Configure IP Webcam
 1. Download and install the **IP Webcam** mobile app on your phone.
