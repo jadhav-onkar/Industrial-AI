@@ -1,22 +1,47 @@
-# Industrial AI
+# Industrial AI Project
 
 ## Introduction
-This project is an Industrial AI application designed to enhance safety and monitoring in industrial environments. It leverages computer vision techniques using the MediaPipe library to provide real-time detection and alerts for various scenarios, including fire detection, safety gear detection, restricted area monitoring, and pose alerts (specifically detecting an L-shaped pose). The application integrates with a mobile IP webcam to stream video for analysis and provides a user-friendly dashboard to configure and monitor results.
+
+The **Industrial AI – Real-Time Safety Monitoring System** is a computer vision–based project designed to improve safety in industrial environments. By integrating AI with live video feeds, it automates the detection of critical safety violations and conditions in real time.
+
+This project supports multiple monitoring features:
+
+- 🔥 **Fire Detection**: Detects flames using deep learning or color-based analysis.
+- 🦺 **Safety Gear Detection**: Identifies if workers are wearing required protective equipment like helmets and vests.
+- 🚫 **Restricted Area Monitoring**: Alerts when unauthorized personnel enter off-limits zones.
+- 🧍 **Pose Alert System**: Detects abnormal or dangerous body postures (e.g., falling, unsafe bending) using pose estimation.
+
+### 📌 Key Highlights
+
+- 📱 **IP Webcam Integration**: Uses your mobile device as a live camera stream source.
+- 🌐 **Web Dashboard**: User-friendly interface for camera setup, detection mode selection, and alert viewing.
+- 🧠 **AI-Powered Vision**: Built using Python, OpenCV, MediaPipe, and optionally YOLO models.
+- 🖥️ **Runs Locally**: No cloud dependencies — ideal for offline, secure industrial settings.
+
+This project demonstrates how **Artificial Intelligence and Machine Learning** can enhance workplace safety, operational awareness, and incident prevention in real-time.
+
 
 ## Cloning the Repository
 To get started, you can either clone the repository using Git or download it as a ZIP file:
 
 - **Using Git**:
-  ```bash
-  git clone <repository_url>
-  cd <repository_directory>
-  ```
+  1. Clone the repository:
+     ```bash
+     git clone https://github.com/jadhav-onkar/Industrial-AI
+     ```
+  2. Open the project in Visual Studio Code:
+     - Launch Visual Studio Code.
+     - Go to `File > Open Folder` and select the `Industrial-AI` folder, or drag and drop the folder into VS Code.
+  3. Open a terminal in VS Code (`Terminal > New Terminal`) and navigate to the project directory:
+     ```bash
+     cd Industrial-AI
+     ```
 
 - **Download ZIP**:
   1. Go to the repository's main page.
   2. Click the green **Code** button and select **Download ZIP**.
   3. Extract the ZIP file to your desired directory.
-  4. Navigate to the project directory using a terminal or command prompt.
+  4. Open the extracted folder in Visual Studio Code, or navigate to it using the terminal.
 
 ## Execution Instructions
 
