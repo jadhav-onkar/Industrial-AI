@@ -1,6 +1,5 @@
 setuptools>=42
 wheel
-gunicorn
 Flask==2.3.3
 Flask-SQLAlchemy==3.0.5
 Flask-Login==0.6.3
@@ -13,4 +12,4 @@ Pillow==10.0.1
 torch==2.0.1
 torchvision==0.15.2
 protobuf==3.20.3
-mediapipe
+
