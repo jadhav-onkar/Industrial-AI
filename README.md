@@ -20,7 +20,7 @@ This project supports multiple monitoring features:
 
 This project demonstrates how **Artificial Intelligence and Machine Learning** can enhance workplace safety, operational awareness, and incident prevention in real-time.
 
-## 🎯 Demo Outputs
+## 🎯 Outputs
 
 ### Home Page
 ![home](./outputs/home.jpg)
@@ -42,7 +42,9 @@ This project demonstrates how **Artificial Intelligence and Machine Learning** c
 
 ---
 
-## Cloning the Repository
+## Getting Started
+
+### Cloning the Repository
 To get started, you can either clone the repository using Git or download it as a ZIP file:
 
 - **Using Git**:
