@@ -42,6 +42,36 @@ This project demonstrates how **Artificial Intelligence and Machine Learning** c
 
 ---
 
+## 📂 Project Structure
+
+```
+Industrial-AI/
+├── instance/
+│   ├── alerts
+│   ├── cams
+│   └── user
+├── models/
+│   ├── fire.pt
+│   ├── fire_detection.py
+│   ├── gear.pt
+│   ├── gear_detection.py
+│   ├── pose.py
+│   └── restricted_zone.py
+├── outputs/
+├── static/
+│   ├── audio/
+|   │   └── fire.mp4
+│   ├── css/
+│   ├── img/
+│   └── js/
+├── template/
+├── app.py
+├── requirememnts.txt
+└── yolov8n.pt
+
+
+```
+
 ## Getting Started
 
 ### Cloning the Repository
