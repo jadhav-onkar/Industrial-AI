@@ -281,5 +281,6 @@ def process_frames(camid, region, flag_r_zone=False, flag_pose_alert=False, flag
 
     cap.release()
 
-if __name__ == "__main__":
-    app.run(debug=True)
+if __name__ == '__main__':
+    port = int(os.environ.get("PORT", 10000))  # 10000 is Render's default
+    app.run(host='0.0.0.0', port=port)
