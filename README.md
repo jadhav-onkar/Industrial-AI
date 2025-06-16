@@ -6,17 +6,10 @@ The **Industrial AI – Real-Time Safety Monitoring System** is a computer visio
 
 This project supports multiple monitoring features:
 
-- 🔥 **Fire Detection**: Detects flames using deep learning or color-based analysis.
+- 🔥 **Fire Detection**: Detects flames using yolov8 trained on fire dataset.
 - 🦺 **Safety Gear Detection**: Identifies if workers are wearing required protective equipment like helmets and vests.
 - 🚫 **Restricted Area Monitoring**: Alerts when unauthorized personnel enter off-limits zones.
-- 🧍 **Pose Alert System**: Detects abnormal or dangerous body postures (e.g., falling, unsafe bending) using pose estimation.
-
-### 📌 Key Highlights
-
-- 📱 **IP Webcam Integration**: Uses your mobile device as a live camera stream source.
-- 🌐 **Web Dashboard**: User-friendly interface for camera setup, detection mode selection, and alert viewing.
-- 🧠 **AI-Powered Vision**: Built using Python, OpenCV, MediaPipe, and optionally YOLO models.
-- 🖥️ **Runs Locally**: No cloud dependencies — ideal for offline, secure industrial settings.
+- 🧍 **Pose Alert System**: Detects abnormal or dangerous body postures (L shape pose) using pose estimation.
 
 This project demonstrates how **Artificial Intelligence and Machine Learning** can enhance workplace safety, operational awareness, and incident prevention in real-time.
 
