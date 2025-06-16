@@ -64,7 +64,7 @@ Industrial-AI/
 │   ├── css/
 │   ├── img/
 │   └── js/
-├── template/
+├── templates/
 ├── app.py
 ├── requirememnts.txt
 └── yolov8n.pt
