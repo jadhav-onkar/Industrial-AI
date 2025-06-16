@@ -20,6 +20,27 @@ This project supports multiple monitoring features:
 
 This project demonstrates how **Artificial Intelligence and Machine Learning** can enhance workplace safety, operational awareness, and incident prevention in real-time.
 
+## 🎯 Demo Outputs
+
+### Home Page
+![home](./outputs/home.jpg)
+
+### Camera Details
+![home](./outputs/camera_details.jpg)
+
+### Camera POV
+![pov](./outputs/camera_pov.jpg)
+
+### Fire Detaction
+![fire](./outputs/fire_detection.jpg)
+
+### Pose Alert
+![fire](./outputs/pose_detection.jpg)
+
+### Notification Log
+![fire](./outputs/notification_log.jpg)
+
+---
 
 ## Cloning the Repository
 To get started, you can either clone the repository using Git or download it as a ZIP file:
